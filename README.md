@@ -1,3 +1,2 @@
-![@hizyyo's GitHub Stats](https://devquest-mu.vercel.app/card/hizyyo.svg?template=heatmap&title=hi)
-[![@hizyyo's GitHub Guestbook](https://devquest-mu.vercel.app/card/hizyyo.svg?template=guestbook)](https://devquest-mu.vercel.app/hizyyo/sign)
-
+<img src="https://devquest-mu.vercel.app/card/hizyyo.svg?template=about-me&style=minimal&accent=00ffaa&animate=false" alt="@hizyyo's DevQuest About Me" />
+<img src="https://devquest-mu.vercel.app/card/hizyyo.svg?template=heatmap&style=minimal&accent=00ffaa" alt="@hizyyo's DevQuest Contribution Heatmap" />
