@@ -1,7 +1,10 @@
-# Eugene
-
-Building developer tools, API infrastructure, and systems for AI agents.
-Focused on reliable execution, practical products, and open-source software.
+<div align="center">
+  <h1>Eugene</h1>
+  <p>
+    Building developer tools, API infrastructure, and systems for AI agents.<br />
+    Focused on reliable execution, practical products, and open-source software.
+  </p>
+</div>
 
 ##  Stack & Tools
 
