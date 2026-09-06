@@ -8,7 +8,7 @@
 
 ##  Stack & Tools
 
-<img src="https://skillicons.dev/icons?i=ts,go,python,react,nodejs,postgres,redis,docker,git&theme=dark" alt="TypeScript, Go, Python, React, Node.js, PostgreSQL, Redis, Docker, and Git" />
+<img src="https://skillicons.dev/icons?i=ts,go,python,rust,react,nodejs,postgres,redis,docker,git&theme=dark" alt="TypeScript, Go, Python, Rust, React, Node.js, PostgreSQL, Redis, Docker, and Git" />
 
 ##  Featured Projects
 
