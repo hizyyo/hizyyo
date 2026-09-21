@@ -14,8 +14,11 @@
 
 **[GhostAPI](https://github.com/yiaany/ghostapi)** — Local API simulation and reproducible test evidence for AI-assisted development.
 
-**[MCPay](https://github.com/yiaany/MCPay)** — Authorization, payments, and usage-accounting infrastructure for paid MCP tools and AI agents.
+**[Tarfio](https://github.com/yiaany/MCPay)** — Authorization, payments, and usage-accounting infrastructure for paid MCP tools and AI agents.
 
 ##  Open Source Contributions
 
-<!-- Contributions will be added here. -->
+- **Rust** — Contributing to the Rust compiler by investigating and fixing compiler-level issues. [Pull request](https://github.com/rust-lang/rust/pull/162373) — currently under review.
+
+- **LLVM** — Contributing to LLVM through compiler bug fixes and improvements. [Pull request](https://github.com/llvm/llvm-project/pull/221614) — currently under review.
+
