@@ -18,7 +18,7 @@
 
 ##  Open Source Contributions
 
-- **Rust** — Contributing to the Rust compiler by investigating and fixing compiler-level issues. [Pull request](https://github.com/rust-lang/rust/pull/162373) — currently under review.
+- **Rust** — Contributor to the Rust compiler by investigating and fixing compiler-level issues. [Pull request](https://github.com/rust-lang/rust/pull/162373) — currently under review.
 
 - **LLVM** — Contributing to LLVM through compiler bug fixes and improvements. [Pull request](https://github.com/llvm/llvm-project/pull/221614) — currently under review.
 
